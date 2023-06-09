@@ -1,0 +1,8 @@
+aws_region="ap-southeast-1"
+stack="ecs-fargate-java-ms-demo"
+fargate-task-service-role="terraform-workshop-role"
+aws_ecr="petclinic"
+aws_profile="default"
+source_repo_name="petclinic"
+source_repo_branch="master"
+image_repo_name="petclinic"
